@@ -26,3 +26,6 @@ for holiday in scotland:
 for holiday in northern_ireland:
     if holiday["title"] not in other_holidays:
         print(holiday["date"], holiday["title"])
+
+# References:
+# https://docs.python.org/3/tutorial/datastructures.html#
