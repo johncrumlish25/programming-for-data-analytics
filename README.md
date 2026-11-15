@@ -71,3 +71,10 @@ The `project/` folder contains my work for the Programming for Data Analytics Bi
 - Pandas
 - NumPy
 - Matplotlib
+
+## Installation
+
+To install the required Python libraries, clone the repository and run the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
