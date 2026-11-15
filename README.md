@@ -16,6 +16,8 @@ The repository is organised into four main folders:
 ### Assignments Folder
 The `assignments` folder contains the weekly assignments completed throughout the module.
 
+| File | Description |
+|---|---|
 | `assignment02-bankholidays.py` | Working with Irish and UK bank holiday data. |
 | `assignment03-pie.ipynb` | Creating pie charts of email domains. |
 | `assignment04-population.ipynb` | Analysing population data and differences between sexes. |
@@ -27,6 +29,8 @@ The `data` folder contains datasets used throughout the weekly exercises and ass
 ### My-Work Folder
 The `my-work` folder contains weekly labs, exercises and other practical work completed throughout the module.
 
+| File | Description |
+|---|---|
 | `find-text.py` | Python exercise using regex. |
 | `projectedbirths.ipynb` | Graphing birthrate data. |
 | `read-csv.py` | Reading CSV files. |
